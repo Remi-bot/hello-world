@@ -1,3 +1,3 @@
 # hello-world
-My first repository
+My first repository.
 Remi-bot is down with a little fever
